@@ -1,0 +1,36 @@
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* NavBar */
+
+.navbar {
+  background-color: darkslateblue;
+}
+
+.navbar a {
+  margin-left: 10px;
+}
+
+li {
+  margin-left: 25px;
+  margin-top: -16px;
+}
+
+li a {
+  text-decoration: none;
+}
+
+li h4 {
+  transition: 0.25s;
+}
+
+li h4:hover {
+  transform: scale(1.1);
+}
+
+/* ContHome */
+
+#conthome {
+  height: 100vh;
+}

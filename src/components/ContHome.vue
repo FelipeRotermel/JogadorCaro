@@ -3,11 +3,14 @@
 </script>
 
 <template>
-    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="https://a-static.besthdwallpaper.com/estadio-de-futebol-fifa-22-videogame-papel-de-parede-2880x1620-76623_52.jpg" class="d-block w-100" alt="...">
+    <div class="container-fluid" id="ContHome">
+            <div class="col-12">
+                <h1 class="text-center text-white"><strong>Bem vindo ao JogadorCaro</strong></h1>
+            </div>
+            <div class="col-12 about-cont about-text">
+                <p class="text-center text-white">
+                    <strong>O site para saber os custos do futebol!</strong>
+                </p>
             </div>
         </div>
-    </div>
 </template>
